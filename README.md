@@ -8,3 +8,6 @@ The Purpose is to get involved in Blockchain and web3 space and also for fun . S
 Practiced and read 3 chapters from "A Smarter Way to Learn Javascript"
 the topics were alert(), Variables( strings + numbers) , that's it for today .
 small steps 
+
+#### Day 2 22/12/22:
+Just completed only one chapter from the same book . learnt about variable names, rules about what not to declare as a var name . 
