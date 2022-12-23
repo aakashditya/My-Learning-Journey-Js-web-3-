@@ -10,4 +10,7 @@ the topics were alert(), Variables( strings + numbers) , that's it for today .
 small steps 
 
 #### Day 2 22/12/22:
-Just completed only one chapter from the same book . learnt about variable names, rules about what not to declare as a var name . 
+Just completed only one chapter from the same book . learnt about variable names, rules about what not to declare as a var name .
+
+#### Day 3 23/12/22: No Progress today . Just skimmed , revised bit .Didn't practice 
+
