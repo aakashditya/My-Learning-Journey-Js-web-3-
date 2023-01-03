@@ -20,3 +20,4 @@ I have completed the 5th section of the exercise .
 
 #### Day 4 3/1/23. 
 I want consistency , so thyat's why i'm doing all short tasks . Later i will improve my speed.Donne with 5th exercise . 
+and then learnt about types in solidity . which is usually - int , uint , boolean, address, bytes
