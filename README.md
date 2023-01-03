@@ -14,3 +14,6 @@ Just completed only one chapter from the same book . learnt about variable names
 
 #### Day 3 23/12/22: No Progress today . Just skimmed , revised bit .Didn't practice 
 
+Gosh , I missed a lot of days ( 1 week ) , there's this habit of me , which is skipping it , being irregular , that's seems to haunt me , now today 3/1/23
+I have completed the 5th section of the exercise . 
+3/1/23. I want consistency , so thyat's why i'm doing all short tasks . Later i will improve my speed.
